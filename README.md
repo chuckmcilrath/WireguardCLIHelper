@@ -87,13 +87,16 @@ I created this script because I was tired of having to manually create the confi
 
 ### Built With
 
-* [![Bash][Bash.com]][https://www.gnu.org/software/bash/]
+<!--* [![Bash][Bash.com]][https://www.gnu.org/software/bash/]
 * [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
 * [![Svelte][Svelte.dev]][Svelte-url]
 * [![Laravel][Laravel.com]][Laravel-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* [![JQuery][JQuery.com]][JQuery-url] -->
+
+## BASH!
+Yup, it's a script. A Bash script.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
