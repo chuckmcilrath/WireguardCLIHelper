@@ -74,11 +74,11 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## About The Script
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-Test About the project part.
+I created this script because I was tired of having to manually create the config files for connections between servers that I manage at work. I wanted to learn Bash and have a script that was simple for anyone to use. So I created this script to create the two types of config files that I use the most: "Server" and "Client" configs.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
