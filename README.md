@@ -97,7 +97,7 @@ I created this script because I was tired of having to manually create the confi
 
 ## BASH!
 Yup, it's a script. A Bash script.
-
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -105,36 +105,29 @@ Yup, it's a script. A Bash script.
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* npm
+* wget command:
   ```sh
   wget -O wireguardclihelper.sh https://raw.githubusercontent.com/chuckmcilrath/WireguardCLIHelper/refs/heads/main/WireguardCLIHelper.sh && chmod +x wireguardclihelper.sh && ./wireguardclihelper.sh
   ```
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. 
+2. 
+3. 
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   
    ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
+4. 
    ```js
-   const API_KEY = 'ENTER YOUR API';
+   
    ```
-5. Change git remote url to avoid accidental pushes to base project
+5. 
    ```sh
-   git remote set-url origin github_username/repo_name
-   git remote -v # confirm the changes
+   
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
