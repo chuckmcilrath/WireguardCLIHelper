@@ -95,7 +95,8 @@ I created this script because I was tired of having to manually create the confi
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url] -->
 
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)!
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
+
 Yup, it's a script. A Bash script.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
