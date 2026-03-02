@@ -39,7 +39,7 @@
   <p align="center">
     Script to help set up simple wireguard connections through the terminal.
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/chuckmcilrath/WireguardCLIHelper/blob/main/WireguardCLIHelper.sh"><strong>Explore the docs »</strong></a>
   </p>
 </div>
 
