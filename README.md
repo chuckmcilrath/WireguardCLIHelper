@@ -113,7 +113,7 @@ To get a local copy up and running follow these simple example steps.
 This is an example of how to list things you need to use the software and how to install them.
 * npm
   ```sh
-  wget -O wireguardclihelper.sh https://github.com/chuckmcilrath/WireguardCLIHelper/blob/main/WireguardCLIHelper.sh && chmod +x wireguardclihelper.sh && ./wireguardclihelper.sh
+  wget -O wireguardclihelper.sh https://raw.githubusercontent.com/chuckmcilrath/WireguardCLIHelper/refs/heads/main/WireguardCLIHelper.sh && chmod +x wireguardclihelper.sh && ./wireguardclihelper.sh
   ```
 
 ### Installation
