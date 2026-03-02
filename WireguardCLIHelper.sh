@@ -1,10 +1,10 @@
 #!/bin/bash
 
-########################################################################################################################################################################################
-# Copy the line below to download and run:                                                                                                                                             #
-# wget -O wireguardmadeez.sh https://raw.githubusercontent.com/chuckmcilrath/WireguardMadeEZ/refs/heads/main/wireguardmadeez.sh && chmod +x wireguardmadeez.sh && ./wireguardmadeez.sh #
-#                                                                                                                                                                                      #
-########################################################################################################################################################################################
+#######################################################################################################################################################################################################
+# Copy the line below to download and run:                                                                                                                                             				  #
+# wget -O wireguardclihelper.sh https://raw.githubusercontent.com/chuckmcilrath/WireguardCLIHelper/refs/heads/main/WireguardCLIHelper.sh && chmod +x wireguardclihelper.sh && ./wireguardclihelper.sh #
+#                                                                                                                                                                                      				  #
+#######################################################################################################################################################################################################
 
 ####################
 # GLOBAL VARIABLES #
